@@ -15,6 +15,8 @@
 
 # Example Skin
 
+[Download](https://github.com/jsmorley/PluginMouse/releases/download/v3.2.2/MouseExample_3.2.2.rmskin)
+
 ```
 [Rainmeter]
 Update=-1

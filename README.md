@@ -1,6 +1,6 @@
 # Options
 
-* The plugin executes bangs when a mouse event happens. The plugin reads and executes all [action options](https://docs.rainmeter.net/manual/mouse-actions/) but are not limited meters. Along with these, the plugin adds additional action types.
+* The plugin executes bangs when a mouse event happens. The plugin reads and executes all [action options](https://docs.rainmeter.net/manual/mouse-actions/) but are not limited to meters. Along with these, the plugin adds additional action types.
 
   - <code>**MouseMoveAction**</code> gets executed when the mouse moves.
   - <code>**LeftMouseDragAction**</code>, <code>**RightMouseDragAction**</code>, <code>**MiddleMouseDragAction**</code>, <code>**X1MouseDragAction**</code>, <code>**X2MouseDragAction**</code> get executed when their respective mouse button is pressed and the mouse moves - these do not override the MoveAction but are executed after it.\
